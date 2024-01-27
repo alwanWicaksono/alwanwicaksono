@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 ![Codewars](https://github.r2v.ch/codewars?user=alwanWicaksono&name=true&top_languages=true&stroke=%23BB432C)
 <!--
