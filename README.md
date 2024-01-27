@@ -1,6 +1,10 @@
 ### Hello 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=alwanWicaksono&name=true&top_languages=true&stroke=%23BB432C&theme=gradient)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=alwanWicaksono&name=true&top_languages=true&stroke=%23BB432C&theme=gradient)" />
+    </a>
+</p>
 <!--
 **alwanWicaksono/alwanwicaksono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
