@@ -7,6 +7,6 @@
 </p>
 <p align="center" >
     <a href="https://leetcode.com/alwanWicaksono">
-        <img src="https://leetcard.jacoblin.cool/alwanWicaksono?theme=unicorn&ext=heatmap" />
+        <img src="https://leetcard.jacoblin.cool/alwanWicaksono" />
     </a>
 </p>
