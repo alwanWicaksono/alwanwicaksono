@@ -2,7 +2,7 @@
 
 <p align="center" >
     <a href="https://www.codewars.com/users/alwanWicaksono">
-        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=alwanWicaksono&theme=halloween" />
+        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=alwanWicaksono&theme=dark" />
     </a>
 </p>
 <p align="center" >
